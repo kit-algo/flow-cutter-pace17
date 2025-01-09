@@ -5,6 +5,8 @@
 
 #include <tuple>
 
+#include <string>
+
 struct ListGraph{
 	ListGraph()=default;
 	ListGraph(int node_count, int arc_count)
